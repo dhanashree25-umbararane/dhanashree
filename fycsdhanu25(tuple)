@@ -1,0 +1,8 @@
+# Indexing tuple
+Subject=("python","dm","stats","ost","linux","s.s")
+print(subject[3])
+ost
+print(subject[-4])
+stats
+print(subject[ :3])
+('python','stats',dm,)
