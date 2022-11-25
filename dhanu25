@@ -1,0 +1,7 @@
+# List 
+list 1=[1,2,3,4]
+name=["dhanu","pranjal","sayali"]
+print(thislist)(list)
+thislist=["dhanu","pranjal","sayali"]
+print(thislist)
+Output=["dhanu","pranjal","sayalee"]
